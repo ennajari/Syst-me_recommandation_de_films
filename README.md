@@ -1,4 +1,4 @@
-#Système de Recommandation de Films
+#Système de Recommandation de Films#
 Ce projet Python implémente un système de recommandation de films en utilisant la similarité entre les utilisateurs. Il génère aléatoirement des évaluations de films pour un certain nombre d'utilisateurs et fournit des fonctionnalités permettant à un utilisateur de noter un film et d'obtenir des recommandations en fonction de ses préférences.
 
 **Fonctionnalités**
